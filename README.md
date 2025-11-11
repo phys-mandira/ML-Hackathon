@@ -14,5 +14,5 @@ npz_to_db.py to transform .npz to .db format.
 python3 training_module.py &
 
 # Generated output files
-After successful training, generates two output files - actual vs predicted output for training data and testing data. The converged model will be stored in *best_inference_model* file.
+After successful training, generates two output files - actual vs predicted output for training and testing data. The converged model will be stored in *best_inference_model* file.
 
