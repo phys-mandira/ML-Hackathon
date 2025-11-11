@@ -8,6 +8,7 @@
 
 # Prepare input
 input_npz.py file to save input in .npz format.
+
 npz_to_db.py to transform .npz to .db format.
 
 # Run 
